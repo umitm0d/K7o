@@ -1,0 +1,28 @@
+[
+  {
+    "kaynak": "m3u8",
+    "name": "BoncukTv",
+    "url": "https://mth.tc/boncuktv"
+  },
+    {
+    "kaynak": "m3u8",
+    "name": "UzunMuhalefet",
+    "url": "https://streams.uzunmuhalefet.com/lists/tr.m3u"
+  },
+    {
+    "kaynak": "xtream",
+    "name": "Goldvod",
+    "url": "https://goldvod.site/",
+    "username": "hpgdisco",
+    "password": "123456",
+    "userAgent": "IPTVSmartersPlayer"
+  },
+   {
+    "kaynak": "xtream",
+    "name": "SerdarList",
+    "url": "http://oz.iptvboss.net:80/",
+    "username": "ozekici100",
+    "password": "ePNUGF3G",
+    "userAgent": "IPTVSmartersPlayer"
+  }
+]

@@ -1,0 +1,72 @@
+[
+    {
+    "kaynak": "m3u8",
+    "name": "TR Kanallar",
+    "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar10.m3u8?ref_type=heads",
+    "poster": "https://raw.githubusercontent.com/umitm0d/K7o/main//trvip10.png",
+    "description": "TR ulusal, spor, belgesel, film, dizi  yayın akışı listesidir. SBG68'e fikir babalığı için teşekkürler"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Spor Paketi 1",
+    "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar1.m3u8?ref_type=heads",
+    "poster": "https://raw.githubusercontent.com/umitm0d/K7o/main//trvip.png",
+    "description": "Güncel spor yayın akışı listesi"
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Spor Paketi 2",
+    "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar2.m3u8?ref_type=heads",
+    "poster": "https://raw.githubusercontent.com/umitm0d/K7o/main//trvip2.png",
+    "description": "Güncel spor yayın akışı listesi."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Spor Paketi 3",
+    "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar3.m3u8?ref_type=heads",
+    "poster": "https://raw.githubusercontent.com/umitm0d/K7o/main//trvip3.png",
+    "description": "Alternatif spor yayın akışı listesi."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Spor Paketi 4",
+    "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar4.m3u8?ref_type=heads",
+    "poster": "https://raw.githubusercontent.com/umitm0d/K7o/main//trvip4.png",
+    "description": "Alternatif spor yayın akışı listesi."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Spor Paketi 5",
+    "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar5.m3u8?ref_type=heads",
+    "poster": "https://raw.githubusercontent.com/umitm0d/K7o/main//trvip5.png",
+    "description": "Alternatif spor yayın akışı listesi."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Spor Paketi 6",
+    "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar6.m3u8?ref_type=heads",
+    "poster": "https://raw.githubusercontent.com/umitm0d/K7o/main//trvip6.png",
+    "description": "Ulusal, spor, belgesel ve genel yayın akışı listesi."
+  },
+  {
+    "kaynak": "m3u8",
+    "name": "Spor Paketi 7",
+    "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar7.m3u8?ref_type=heads",
+    "poster": "https://raw.githubusercontent.com/umitm0d/K7o/main//trvip7.png",
+    "description": "Yedek spor yayın akışı listesi."
+  },
+   {
+    "kaynak": "m3u8",
+    "name": "Spor Paketi 8",
+    "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar8.m3u?ref_type=heads",
+     "poster": "https://raw.githubusercontent.com/umitm0d/K7o/main//trvip8.png",
+    "description": "Yedek spor yayın akışı listesi."
+  },
+    {
+    "kaynak": "m3u8",
+    "name": "Spor Paketi 9",
+    "url": "https://gitlab.com/mstfblkn006/listeler/-/raw/main/kanallar9.m3u8?ref_type=heads",
+    "poster": "https://raw.githubusercontent.com/umitm0d/K7o/main//trvip9.png",
+    "description": "Yedek spor yayın akışı listesi."
+  }
+]

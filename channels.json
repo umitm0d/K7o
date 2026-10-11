@@ -8,7 +8,7 @@
       "epg_id": "KanalD.tr",
       "name": "KANAL D",
       "p": 1,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/kanal-d.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/kanal-d.png",
       "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3"
     },
      {
@@ -29,7 +29,7 @@
       "epg_id": "StarTV.tr",
       "name": "STAR TV ",
       "p": 3,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/star%20tv.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/star%20tv.png",
       "url": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7982pzka0gvp&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3"
     },
     {
@@ -39,7 +39,7 @@
       "epg_id": "ShowTV.tr",
       "name": "SHOW TV",
       "p": 4,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/show%20tv.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/show%20tv.png",
       "url": "https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1&ppid=90d4e38e1888b30ed3df939c73aeb5bc"
     },
     {
@@ -49,7 +49,7 @@
       "epg_id": "TV8.tr",
       "name": "TV8",
       "p": 6,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv8.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/tv8.png",
       "url": "https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=79924vxc2fp5&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
     },
     {
@@ -59,7 +59,7 @@
       "epg_id": "TV8,5.tr",
       "name": "TV8.5",
       "p": 7,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv85-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/tv85-tr.png",
       "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=79928ef2mqp9&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3"
     },
     {
@@ -69,7 +69,7 @@
       "epg_id": "HalkTV.tr",
       "name": "HALK TV ",
       "p": 8,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/halk-tv.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/halk-tv.png",
       "url": "https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=798fhlczp48c&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3"
     },
     {
@@ -79,7 +79,7 @@
       "epg_id": "TRT2.tr",
       "name": "TRT 2 ",
       "p": 10,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-2.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/trt-2.png",
       "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8"
     },
     {
@@ -89,7 +89,7 @@
       "epg_id": "TRT1.tr",
       "name": "TRT 1 ",
       "p": 9,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-1.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/trt-1.png",
       "url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=web"
     },
     {
@@ -99,7 +99,7 @@
       "epg_id": "TRTBelgesel.tr",
       "name": "TRT BELGESEL ",
       "p": 10,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-belgesel-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/trt-belgesel-tr.png",
       "url": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8"
     },
     {
@@ -108,7 +108,7 @@
       "id": "TRT EBA ",
       "name": "TRT EBA ",
       "p": 11,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/EBA_logo.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/EBA_logo.png",
       "url": "https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8"
     },
     {
@@ -118,7 +118,7 @@
       "epg_id": "TRTHaber.tr",
       "name": "TRT HABER ",
       "p": 12,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-haber-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/trt-haber-tr.png",
       "url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8"
     },
     {
@@ -128,7 +128,7 @@
       "epg_id": "TRTSPOR.tr",
       "name": "TRT SPOR ",
       "p": 13,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-spor-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/trt-spor-tr.png",
       "url": "https://trt.daioncdn.net/trtspor/master_1080p.m3u8?&sid=7990pkt0m3yd&app=71ff325a-50b6-48f4-8a67-3daa89386c24&ce=2"
     },
     {
@@ -138,7 +138,7 @@
       "epg_id": "TRTSPORYILDIZ.tr",
       "name": "TRT SPOR YILDIZ ",
       "p": 14,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-spor-yildiz-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/trt-spor-yildiz-tr.png",
       "url": "https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?platform=trtspor&sid=7i9gjvz1c1wm&app=6d14425d-4281-477b-8b74-49c40e4aa8b8&ce=2"
     },
     {
@@ -148,7 +148,7 @@
       "epg_id": "TRTMüzik.tr",
       "name": "TRT MÜZİK ",
       "p": 15,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-muzik-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/trt-muzik-tr.png",
       "url": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8"
     },
     {
@@ -158,7 +158,7 @@
       "epg_id": "TRTTURK.tr",
       "name": "TRT TÜRK ",
       "p": 16,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-turk-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/trt-turk-tr.png",
       "url": "https://tv-trtturk.medya.trt.com.tr/master_720.m3u8"
     },
     {
@@ -168,7 +168,7 @@
       "epg_id": "TRTÇocuk.tr",
       "name": "TRT ÇOCUK ",
       "p": 17,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-cocuk-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/trt-cocuk-tr.png",
       "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8"
     },
     {
@@ -178,7 +178,7 @@
       "epg_id": "ASpor.tr",
       "name": "A SPOR  ",
       "p": 18,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/aspor.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/aspor.png",
       "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8"
     },
     {
@@ -188,7 +188,7 @@
       "epg_id": "TV100.tr",
       "name": "TV 100",
       "p": 20,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv-100-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/tv-100-tr.png",
       "url": "https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?&sid=79920lasj3yi&app=356e7599-d81d-4357-935a-355a1ad9846e&ce=2"
     },
     {
@@ -197,7 +197,7 @@
       "id": "NUMBER ONE AŞK",
       "name": "NUMBER ONE AŞK",
       "p": 21,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/nr1-ask-hd-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/nr1-ask-hd-tr.png",
       "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/chunklist_b400000.m3u8?md5=LqI3XxlgP62vHTEC2Lz7SQ&expires=1733178710"
     },
     {
@@ -206,7 +206,7 @@
       "id": "NUMBER ONE",
       "name": "NUMBER ONE",
       "p": 22,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/nr1-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/nr1-tr.png",
       "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8"
     },
     {
@@ -215,7 +215,7 @@
       "id": "NUMBER ONE TÜRK",
       "name": "NUMBER ONE TÜRK",
       "p": 23,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/nr1-turk-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/nr1-turk-tr.png",
       "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8"
     },
     {
@@ -224,7 +224,7 @@
       "id": "NUMBER ONE DAMAR",
       "name": "NUMBER ONE DAMAR",
       "p": 24,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/nr1-damar-hd-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/nr1-damar-hd-tr.png",
       "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8"
     },
     {
@@ -233,7 +233,7 @@
       "id": "Fashionone Tv",
       "name": "Fashionone Tv",
       "p": 25,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/fashionone-tv.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/fashionone-tv.png",
       "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist_b400000.m3u8"
     },
     {
@@ -243,7 +243,7 @@
       "epg_id": "360.tr",
       "name": "360 TV",
       "p": 26,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/360.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/360.png",
       "url": "https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8"
     },
     {
@@ -253,7 +253,7 @@
       "epg_id": "DMAX.tr",
       "name": "DMAX",
       "p": 28,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/DMAX.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/DMAX.png",
       "url": "https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=djBLVDVJSVNjRjNmaGgxMUpCNjVaU1VwSk9IZ3ZuVUU1eENNTHYyTWVmTT0=&sid=798epwgsdsxe&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3"
     },
     {
@@ -262,7 +262,7 @@
       "id": "DREAM TÜRK",
       "name": "DREAM TÜRK",
       "p": 29,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/dream-turk.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/dream-turk.png",
       "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8?&live=true&app=com.dreamturk&st=m4J4nn4hb1Gz-SFnhF7u4w&e=1742491953"
     },
     {
@@ -271,7 +271,7 @@
       "id": "EKOL TV",
       "name": "EKOL TV",
       "p": 30,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/Ekol_TV.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/Ekol_TV.png",
       "url": "https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8"
     },
     {
@@ -281,7 +281,7 @@
       "epg_id": "HABERTURK.tr",
       "name": "HABERTÜRK",
       "p": 31,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/haberturk-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/haberturk-tr.png",
       "url": "https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=798fdlc3d64d&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3"
     },
     {
@@ -291,7 +291,7 @@
       "epg_id": "KANAL7.tr",
       "name": "KANAL 7",
       "p": 32,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/kanal-7-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/kanal-7-tr.png",
       "url": "https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=798fsk97cfv5&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3"
     },
     {
@@ -300,7 +300,7 @@
       "id": "MAVİ KARADENİZ",
       "name": "MAVİ KARADENİZ",
       "p": 33,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/mavi-karadeniz-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/mavi-karadeniz-tr.png",
       "url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8"
     },
     {
@@ -310,7 +310,7 @@
       "epg_id": "NTV.tr",
       "name": "NTV",
       "p": 34,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/ntv-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/ntv-tr.png",
       "url": "https://dogus.daioncdn.net/ntv/ntv.m3u8?app=7c4bb802-0c41-409e-8cd2-799984995694"
     },
     {
@@ -319,7 +319,7 @@
       "id": "POWER LOVE",
       "name": "POWER LOVE",
       "p": 36,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/POWER_LOVE.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/POWER_LOVE.png",
       "url": "https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8"
     },
     {
@@ -328,7 +328,7 @@
       "id": "POWER DANCE",
       "name": "POWER DANCE",
       "p": 37,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/POWER_DANCEpng.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/POWER_DANCEpng.png",
       "url": "https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8"
     },
     {
@@ -337,7 +337,7 @@
       "id": "POWER HİTS",
       "name": "POWER HİTS",
       "p": 38,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/power-tv-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/power-tv-tr.png",
       "url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8"
     },
     {
@@ -346,7 +346,7 @@
       "id": "POWERTÜRK AKUSTİK",
       "name": "POWERTÜRK AKUSTİK",
       "p": 39,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/POWER_TURK_AKUSTİK.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/POWER_TURK_AKUSTİK.png",
       "url": "https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
     },
     {
@@ -355,7 +355,7 @@
       "id": "POWERTÜRK SLOW",
       "name": "POWERTÜRK SLOW",
       "p": 40,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/POWER_TURK_SLOW.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/POWER_TURK_SLOW.png",
       "url": "https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8"
     },
     {
@@ -364,7 +364,7 @@
       "id": "POWERTÜRK",
       "name": "POWERTÜRK",
       "p": 41,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/powerturk-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/powerturk-tr.png",
       "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8"
     },
     {
@@ -373,7 +373,7 @@
       "id": "POWERTÜRK TAPTAZE",
       "name": "POWERTÜRK TAPTAZE",
       "p": 42,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/POWER_TURK_TAPTAZE.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/POWER_TURK_TAPTAZE.png",
       "url": "https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
     },
     {
@@ -382,7 +382,7 @@
       "id": "TBMM TV",
       "name": "TBMM TV",
       "p": 44,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tbmm-tv-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/tbmm-tv-tr.png",
       "url": "https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8?e=&st="
     },
     {
@@ -392,7 +392,7 @@
       "epg_id": "TLC.tr",
       "name": "TLC",
       "p": 46,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/TLC.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/TLC.png",
       "url": "https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=Sk5QZ1Y0VG1YMmJBa082all3VkdBcCtDUDI5T2VOT29MZitvUHhQbVRxZz0=&sid=7991xi7llbrw&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3"
     },
     {
@@ -401,7 +401,7 @@
       "id": "TARIM TV",
       "name": "TARIM TV",
       "p": 47,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tarim-tv-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/tarim-tv-tr.png",
       "url": "https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8"
     },
     {
@@ -411,7 +411,7 @@
       "epg_id": "A2.tr",
       "name": "A2 TV",
       "p": 48,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/a2.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/a2.png",
       "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8"
     },
     {
@@ -421,7 +421,7 @@
       "epg_id": "Teve2.tr",
       "name": "TEVE 2",
       "p": 49,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/teve-2-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/teve-2-tr.png",
       "url": "https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=79g13gdxxsc7&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3"
     },
     {
@@ -430,7 +430,7 @@
       "id": "ÇAY TV",
       "name": "ÇAY TV",
       "p": 50,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/cay-tv.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/cay-tv.png",
       "url": "https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8"
     },
     {
@@ -439,7 +439,7 @@
       "id": "TJK TV",
       "name": "TJK TV",
       "p": 94,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tjk-tv-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/tjk-tv-tr.png",
       "url": "https://tjktv-live.tjk.org/tjktv/tjktv_1080p.m3u8"
     },
     {
@@ -448,7 +448,7 @@
       "id": "TJK 2 TV",
       "name": "TJK 2 TV",
       "p": 94,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tay-tv-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/tay-tv-tr.png",
       "url": "https://tjktv-live.tjk.org/tjktv2/tjktv2_1080p.m3u8"
     },
     {
@@ -458,7 +458,7 @@
       "epg_id": "Teve2.tr",
       "name": "HT SPOR",
       "p": 94,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/HT%20Spor.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/HT%20Spor.png",
       "url": "https://ciner-live.ercdn.net/htspor/htspor.m3u8"
     },
     {
@@ -468,7 +468,7 @@
       "epg_id": "NOWTV.tr",
       "name": "NOW TV",
       "p": 5,
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/now-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/now-tr.png",
       "url": "https://yakala.atakann.workers.dev/?url=https://www.nowtv.com.tr/canli-yayin&ext=m3u8"
     },
     {
@@ -494,7 +494,7 @@
       "id": "NowYedek",
       "epg_id": "NOWTV.tr",
       "name": "NOW TV Yedek",
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/now-tr.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/now-tr.png",
       "url": "https://www.nowtv.com.tr/canli-yayin"
     },
     {
@@ -510,7 +510,7 @@
       "category": "Müzik",
       "id": "DENGEZELALTV",
       "name": "DENGE ZELAL TV",
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/denge_zelal.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/denge_zelal.png",
       "url": "https://dengetv.ozelip.com:3143/live/dengelive.m3u8"
     },
      {
@@ -518,7 +518,7 @@
       "category": "Ulusal",
       "id": "TrtGenç",
       "name": "TRT GENÇ",
-      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-genc.0b68abf.png",
+      "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/trt-genc.0b68abf.png",
       "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8"
     },
 {
@@ -528,7 +528,7 @@
                          "epg_id": "CNNTÜRK.tr",
                          "name":  "CNN TURK HD .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/cnn-turk.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/cnn-turk.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F427315396743dfe9212c50"
                      },
                      {
@@ -538,7 +538,7 @@
                          "epg_id": "AHaber.tr",
                          "name":  "A HABER HD .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/ahaber.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/ahaber.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F535272601f07c2fbd1f2b"
                      },
                      {
@@ -548,7 +548,7 @@
                          "epg_id": "FlashHaberTV.tr",
                          "name":  "FLASH HABER TV .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/flashhabertv.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/flashhabertv.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3806979011e0d72cfb10fc"
                      },
                      {
@@ -558,7 +558,7 @@
                          "epg_id": "HABERGLOBAL.tr",
                          "name":  "HABER GLOBAL .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/haber-global-tr.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/haber-global-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2483036808d11f366dc42d"
                      },
                      {
@@ -568,7 +568,7 @@
                          "epg_id": "TELE1.tr",
                          "name":  "TELE 1 .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tele1-tr.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/tele1-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F135762464349d3676ea069"
                      },
                      {
@@ -578,7 +578,7 @@
                          "epg_id": "KANAL24.tr",
                          "name":  "24 .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/24.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/24.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F17029379329ed4b84db05f"
                      },
                      {
@@ -588,7 +588,7 @@
                          "epg_id": "TGRTHaber.tr",
                          "name":  "TGRT HABER HD .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tgrt-haber-tr.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/tgrt-haber-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28143924587b833f07f3fe"
                      },
                      {
@@ -598,7 +598,7 @@
                          "epg_id": "TV100.tr",
                          "name":  "TV 100",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv-100-tr.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/tv-100-tr.png",
                          "url":  "https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?\u0026sid=79920lasj3yi\u0026app=356e7599-d81d-4357-935a-355a1ad9846e\u0026ce=2"
                      },
                      {
@@ -608,7 +608,7 @@
                          "epg_id": "ULUSALTV.tr",
                          "name":  "ULUSAL KANAL .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/ulusal.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/ulusal.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1910048817671d14cfb4cd"
                      },
                      {
@@ -618,7 +618,7 @@
                          "epg_id": "BloombergHT.tr",
                          "name":  "BLOOMBERG HT HD .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/bloomberg-ht-tr.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/bloomberg-ht-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F236989031b5bce3e87ca9"
                      },
                      {
@@ -627,7 +627,7 @@
                          "id":  "EKOTURK .G",
                          "name":  "EKOTURK .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/ekoturk-tr.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/ekoturk-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F12014567934c0bd95e7df8"
                      },
                      {
@@ -637,7 +637,7 @@
                          "epg_id": "KRTTV.tr",
                          "name":  "KRT TV HD .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/krt-tr.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/krt-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F535260022435d62839cf5"
                      },
                      {
@@ -647,7 +647,7 @@
                          "epg_id": "BengütürkTV.tr",
                          "name":  "BENGUTURK .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/bengu-turk-tr.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/bengu-turk-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3677880546b91991c857cd"
                      },
                      {
@@ -657,7 +657,7 @@
                          "epg_id": "UlkeTV.tr",
                          "name":  "ULKETV HD .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/ulke-tv-tr.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/ulke-tv-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F32033343438cc3c5fe5041"
                      },
                      {
@@ -667,7 +667,7 @@
                          "epg_id": "APara.tr",
                          "name":  "A PARA RAW .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/a-para-tr.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/a-para-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4202445834678957f05238"
                      },
                      {
@@ -677,7 +677,7 @@
                          "epg_id": "TVNET.tr",
                          "name":  "TVNET HD .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/Tvnet.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/Tvnet.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11824807968f3783ce706f"
                      },
                      {
@@ -687,7 +687,7 @@
                          "epg_id": "ANews.tr",
                          "name":  "A NEWS HD .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/a-news-tr.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/a-news-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F387890889759c06a2c4da1"
                      },
                      {
@@ -696,7 +696,7 @@
                          "id":  "TV5 .G",
                          "name":  "TV5 .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv5.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/tv5.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F935671761c36c5491c3ed"
                      },
                      {
@@ -706,7 +706,7 @@
                          "epg_id": "LIDERHABERTV.tr",
                          "name":  "LIDER HABER .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/lider-haber.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/lider-haber.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F70369886837bb68700663"
                      },
                      {
@@ -716,7 +716,7 @@
                          "epg_id": "LIDERHABERTV.tr",
                          "name":  "BEIN SPORTS HABER HD .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/bein-sports-haber-tr.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/bein-sports-haber-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3989995533d0efea1c8696"
                      },
                      {
@@ -726,7 +726,7 @@
                          "epg_id": "FBTV.tr",
                          "name":  "FB TV .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/fenerbahce-tv-tr.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/fenerbahce-tv-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F25123405584d863ac39980"
                      },
                      {
@@ -736,7 +736,7 @@
                          "epg_id": "TRT1.tr",
                          "name":  "TRT 1 HD .G",
                          "p":  "6",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-1.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/trt-1.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1762199258e25181300f62"
                      },
                      {
@@ -746,7 +746,7 @@
                          "epg_id": "KanalD.tr",
                          "name":  "KANAL D HD .G",
                          "p":  "1",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/kanal-d.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/kanal-d.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F16776796840463f6dcff41"
                      },
                      {
@@ -766,7 +766,7 @@
                          "epg_id": "NOWTV.tr",
                          "name":  "NOW HD .G",
                          "p":  "4",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/now-tr.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/now-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2578197593a87a0ba68631"
                      },
                      {
@@ -776,7 +776,7 @@
                          "epg_id": "StarTV.tr",
                          "name":  "STAR TV HD .G",
                          "p":  "3",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/star%20tv.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/star%20tv.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F219297129315c074c03f8e"
                      },
                      {
@@ -786,7 +786,7 @@
                          "epg_id": "ShowTV.tr",
                          "name":  "SHOW TV HD .G",
                          "p":  "5",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/show%20tv.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/show%20tv.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F8795889605c7795ac9528"
                      },
                      {
@@ -796,7 +796,7 @@
                          "epg_id": "TV8.tr",
                          "name":  "TV8 HD .G",
                          "p":  "7",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv8.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/tv8.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F329802627004ee30bd6aa0"
                      },
                      {
@@ -806,7 +806,7 @@
                          "epg_id": "TV8,5.tr",
                          "name":  "TV 8.5 HD .G",
                          "p":  "8",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv85-tr.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/tv85-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F19082658164debc10cdc44"
                      },
                      {
@@ -816,7 +816,7 @@
                          "epg_id": "BEYAZTV.tr",
                          "name":  "BEYAZ TV HD .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/beyaz-tv.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/beyaz-tv.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2755756005a4ea6e7589ca"
                      },
                      {
@@ -826,7 +826,7 @@
                          "epg_id": "Teve2.tr",
                          "name":  "TEVE 2 FHD .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/teve-2-tr.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/teve-2-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F42295295583463c26f2597"
                      },
                      {
@@ -835,7 +835,7 @@
                          "id":  "TV 8 INT .G",
                          "name":  "TV 8 INT .G",
                          "p":  "9",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/ulke-tv-tr.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/ulke-tv-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1376775989e84fdc9d4aa"
                      },
                      {
@@ -845,7 +845,7 @@
                          "epg_id": "A2.tr",
                          "name":  "A2 HD .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/a2.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/a2.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F867875861079562f15007"
                      },
                      {
@@ -855,7 +855,7 @@
                          "epg_id": "DMAX.tr",
                          "name":  "DMAX HD .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/DMAX.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/DMAX.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1595495667292319e147ce"
                      },
                      {
@@ -865,7 +865,7 @@
                          "epg_id": "TLC.tr",
                          "name":  "TLC TV .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/TLC.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/TLC.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F328164178659cf433d3442"
                      },
                      {
@@ -883,7 +883,7 @@
                          "id":  "YABAN TV HD .G",
                          "name":  "YABAN TV HD .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/yaban-tr.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/yaban-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F178850393550c13d869fbf"
                      },
                      {
@@ -892,7 +892,7 @@
                          "id":  "CIFTCI TV .G",
                          "name":  "CIFTCI TV .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/ciftci-tv.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/ciftci-tv.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3124431103898180a5f0f6"
                      },
                      {
@@ -1424,7 +1424,7 @@
                          "epg_id": "KanalD.tr",
                          "name":  "KANAL D HEVC G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/kanal-d.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/kanal-d.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F41138222975f1bf462585f"
                      },
                      {
@@ -1444,7 +1444,7 @@
                          "epg_id": "StarTV.tr",
                          "name":  "STAR TV HEVC .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/star%20tv.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/star%20tv.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1386325794720c26c4132"
                      },
                      {
@@ -1454,7 +1454,7 @@
                          "epg_id": "NOWTV.tr",
                          "name":  "NOW TV HEVC .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/now-tr.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/now-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2907081311ea1629502e0f"
                      },
                      {
@@ -1464,7 +1464,7 @@
                          "epg_id": "ShowTV.tr",
                          "name":  "SHOW TV HEVC .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/show%20tv.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/show%20tv.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F37476469073149a4f729bc"
                      },
                      {
@@ -1474,7 +1474,7 @@
                          "epg_id": "TRT1.tr",
                          "name":  "TRT 1 HEVC .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-1.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/trt-1.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F194373112d73ddb5898a4"
                      },
                      {
@@ -1484,7 +1484,7 @@
                          "epg_id": "TV8.tr",
                          "name":  "TV8 HEVC .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv8.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/tv8.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1662562034e8a914e62dce"
                      },
                      {
@@ -1494,7 +1494,7 @@
                          "epg_id": "Teve2.tr",
                          "name":  "TEVE 2 HEVC .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/teve-2-tr.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/teve-2-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1333128393a9d21f4d5773"
                      },
                      {
@@ -1504,7 +1504,7 @@
                          "epg_id": "KANAL7.tr",
                          "name":  "KANAL 7 HEVC .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/kanal-7-tr.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/kanal-7-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3897412802d4338ee87b0a"
                      },
                      {
@@ -1514,7 +1514,7 @@
                          "epg_id": "360.tr",
                          "name":  "KANAL 360 HEVC .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/360.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/360.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F335705245336ec860488ed"
                      },
                      {
@@ -1524,7 +1524,7 @@
                          "epg_id": "DMAX.tr",
                          "name":  "DMAX HEVC .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/DMAX.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/DMAX.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3928493138c10993284095"
                      },
                      {
@@ -1534,7 +1534,7 @@
                          "epg_id": "BEYAZTV.tr",
                          "name":  "BEYAZ TV HEVC .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/beyaz-tv.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/beyaz-tv.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F15107839012fa9f66fac00"
                      },
                      {
@@ -1544,7 +1544,7 @@
                          "epg_id": "A2.tr",
                          "name":  "A2 HEVC .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/a2.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/a2.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F128957614556bfb7e20bde"
                      },
                      {
@@ -1554,7 +1554,7 @@
                          "epg_id": "360.tr",
                          "name":  "360 RAW .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/360.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/360.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F17026451919e48523c30db"
                      },
                      {
@@ -1564,7 +1564,7 @@
                          "epg_id": "TV8,5.tr",
                          "name":  "TV8,5 RAW .G",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv85-tr.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/tv85-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F241220593740c7258ef669"
                      },
                      {
@@ -1573,7 +1573,7 @@
                          "id":  "TytTürk",
                          "name":  "TYT TÜRK",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tyt-logo.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/tyt-logo.png",
                          "url":  "https://tytturk-live.ercdn.net/tytturk/tytturk.m3u8"
                      },
                          {
@@ -1582,7 +1582,7 @@
                          "id":  "CNBC-e",
                          "name":  "CNBC-e",
                          "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/cnbc.png",
+                         "logo": "https://raw.githubusercontent.com/umitm0d/K7o/main/tv_logo/cnbc.png",
                          "url":  "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8"
                      }
   ]

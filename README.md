@@ -1,2 +1,1 @@
-# K7o
-Otomatik oluşturuldu
+# gunestv

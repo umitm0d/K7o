@@ -1,0 +1,65 @@
+[
+  {
+    "kaynak": "m3u8",
+    "name": "PowerSinema",
+    "url": "https://raw.githubusercontent.com/GitLatte/patr0n/refs/heads/site/lists/power-sinema.m3u",
+    "description": "Film içeriği mevcuttur. Powerboard tarafından yapılmıştır. Kendisine teşekkürler",
+    "poster": "https://raw.githubusercontent.com/umitm0d/K7o/main/kanal_logo/powerboard.png"
+  },
+    {
+    "kaynak": "json",
+    "name": "DiziTime",
+    "url": "http://77.245.155.242/dizitime.json",
+    "description": "Ulusal Kanallara ait dizilerin yer aldığı listedir.",
+    "poster": "https://raw.githubusercontent.com/umitm0d/K7o/main/kanal_logo/1791859795952.jpg"
+  },
+  {
+    "kaynak": "json",
+    "name": "Film paketi 1",
+    "url": "http://77.245.155.242/filmmodu.json",
+    "description": "Logoda yer alan Film ve Dizi sitesinin yayın akışı listesi.",
+    "poster": "https://raw.githubusercontent.com/umitm0d/K7o/main/kanal_logo/vod1.png"
+  },
+  {
+    "kaynak": "json",
+    "name": "Film paketi 2",
+    "url": "http://77.245.155.242/fullhdfilmizlesene.json",
+    "description": "Logoda yer alan Film ve Dizi sitesinin yayın akışı listesi.",
+   "poster": "https://raw.githubusercontent.com/umitm0d/K7o/main/kanal_logo/vod2.png"
+  },
+  {
+    "kaynak": "json",
+    "name": "Film paketi 3",
+    "url": "http://77.245.155.242/hdfilmcehennemi.json",
+    "description": "Logoda yer alan Film ve Dizi sitesinin yayın akışı listesi.",
+    "poster": "https://raw.githubusercontent.com/umitm0d/K7o/main/kanal_logo/vod3.png"
+  },
+  {
+    "kaynak": "json",
+    "name": "Film paketi 4",
+    "url": "http://77.245.155.242/filmmakinesi.json",
+    "description": "Logoda yer alan Film ve Dizi sitesinin yayın akışı listesi.",
+    "poster": "https://raw.githubusercontent.com/umitm0d/K7o/main/kanal_logo/vod4.png"
+  },
+  {
+    "kaynak": "json",
+    "name": "Film paketi 5",
+    "url": "http://77.245.155.242/dizipal.json",
+    "description": "Logoda yer alan Film ve Dizi sitesinin yayın akışı listesi.",
+    "poster": "https://raw.githubusercontent.com/umitm0d/K7o/main/kanal_logo/vod5.png"
+  },
+  {
+    "kaynak": "json",
+    "name": "Film paketi 6",
+    "url": "http://77.245.155.242/turkish123.json",
+    "description": "Logoda yer alan Film ve Dizi sitesinin yayın akışı listesi.",
+    "poster": "https://raw.githubusercontent.com/umitm0d/K7o/main/kanal_logo/vod6.png"
+  },
+    {
+    "kaynak": "json",
+    "name": "Film paketi 7",
+    "url": "http://77.245.155.242/dizibox.json",
+    "description": "Logoda yer alan Film ve Dizi sitesinin yayın akışı listesi.",
+    "poster": "https://raw.githubusercontent.com/umitm0d/K7o/main/kanal_logo/vod7.png"
+  }
+]

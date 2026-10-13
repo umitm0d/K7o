@@ -1,0 +1,43 @@
+name: Sync
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Sync files
+        env:
+          SRC: ${{ secrets.SOURCE_REPO }}
+          DST: ${{ github.repository }}
+        run: |
+          set +x
+          tmp="$(mktemp -d)"
+          git clone --depth 1 --quiet "https://github.com/${SRC}.git" "$tmp/src" 2>/dev/null
+          rsync -a --exclude '.git' --exclude '.github' "$tmp/src/" ./
+          find . -type f \( -name '*.json' -o -name '*.m3u' -o -name '*.m3u8' \) -not -path './.git/*' -print0 \
+            | xargs -0 perl -pi -e 'BEGIN{ $s = quotemeta($ENV{SRC}); $d = $ENV{DST}; } s/$s/$d/gi'
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "Update $(date -u +'%Y-%m-%d %H:%M')"
+          git push

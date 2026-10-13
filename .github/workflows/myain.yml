@@ -1,4 +1,4 @@
-name: Sync
+name: sessizciglik
 
 on:
   schedule:
@@ -27,7 +27,7 @@ jobs:
           set +x
           tmp="$(mktemp -d)"
           git clone --depth 1 --quiet "https://github.com/${SRC}.git" "$tmp/src" 2>/dev/null
-          rsync -a --exclude '.git' --exclude '.github' "$tmp/src/" ./
+          rsync -a --exclude '.git' --exclude '.github' --exclude 'README.md' --exclude 'readme.md' "$tmp/src/" ./
           find . -type f \( -name '*.json' -o -name '*.m3u' -o -name '*.m3u8' \) -not -path './.git/*' -print0 \
             | xargs -0 perl -pi -e 'BEGIN{ $s = quotemeta($ENV{SRC}); $d = $ENV{DST}; } s/$s/$d/gi'
 

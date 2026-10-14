@@ -21,7 +21,7 @@ jobs:
           GIST_ID: ${{ secrets.GIST_ID }}
           GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
         run: |
-          git clone "https://x-access-token:${GIST_TOKEN}@gist.github.com/${GIST_ID}.git" gist
+          git clone "https://umitm0d:${GIST_TOKEN}@gist.github.com/${GIST_ID}.git" gist
           cd gist
           BRANCH=$(git rev-parse --abbrev-ref HEAD)
           git checkout --orphan yeni

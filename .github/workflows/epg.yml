@@ -3,8 +3,6 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-permissions:
-  contents: write
 jobs:
   epg:
     runs-on: ubuntu-latest
@@ -18,10 +16,17 @@ jobs:
         env:
           EPG_URLS: ${{ secrets.EPG_URLS }}
         run: python merge_epg.py
-      - name: epg dalına yükle (geçmiş tutulmaz)
+      - name: Secret gist'e yükle
+        env:
+          GIST_ID: ${{ secrets.GIST_ID }}
+          GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
         run: |
-          cd out
-          git init -b epg
+          git clone "https://x-access-token:${GIST_TOKEN}@gist.github.com/${GIST_ID}.git" gist
+          cd gist
+          BRANCH=$(git rev-parse --abbrev-ref HEAD)
+          git checkout --orphan yeni
+          git rm -rf . >/dev/null 2>&1 || true
+          cp ../out/epg.xml ../out/epg.xml.gz .
           git add .
           git -c user.name=bot -c user.email=bot@users.noreply.github.com commit -m "epg $(date -u +%F-%H:%M)"
-          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" epg
+          git push -f origin yeni:${BRANCH}

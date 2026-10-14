@@ -1,0 +1,27 @@
+name: EPG Güncelle
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  epg:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Birleştir
+        env:
+          EPG_URLS: ${{ secrets.EPG_URLS }}
+        run: python merge_epg.py
+      - name: epg dalına yükle (geçmiş tutulmaz)
+        run: |
+          cd out
+          git init -b epg
+          git add .
+          git -c user.name=bot -c user.email=bot@users.noreply.github.com commit -m "epg $(date -u +%F-%H:%M)"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" epg
